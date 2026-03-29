@@ -4,6 +4,9 @@ Babounette est le site de la collection enfant de Babetchka Vintage.
 
 Le projet présente un catalogue de vêtements bébé et enfant, un univers visuel inspiré des années 60–70 et des fiches produit générées à partir d’un fichier Excel.
 
+Site web :  
+https://cmartinarchives.github.io/babounette/
+
 ---
 
 ## Aperçu
